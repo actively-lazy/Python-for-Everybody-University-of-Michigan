@@ -9,17 +9,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python_for_Everybody_University_of_Michigan$request_response_cycle.coverage" NAME="request_response_cycle Coverage Results" MODIFIED="1549292871589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_for_Everybody_University_of_Michigan$Assignment_9_4.coverage" NAME="Assignment_9.4 Coverage Results" MODIFIED="1548859623062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_for_Everybody_University_of_Michigan$BeautifulSoup__1_.coverage" NAME="BeautifulSoup (1) Coverage Results" MODIFIED="1549292924008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_for_Everybody_University_of_Michigan$Assignment_4_6.coverage" NAME="Assignment_4.6 Coverage Results" MODIFIED="1548785964059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_for_Everybody_University_of_Michigan$BeautifulSoup2__1_.coverage" NAME="BeautifulSoup2 (1) Coverage Results" MODIFIED="1549329374530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course 3 - Using Python to Access Web Data/bs4" />
     <SUITE FILE_PATH="coverage/Python_for_Everybody_University_of_Michigan$Assignment_10_2.coverage" NAME="Assignment_10.2 Coverage Results" MODIFIED="1548860343084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_for_Everybody_University_of_Michigan$Assignment_8_5.coverage" NAME="Assignment_8.5 Coverage Results" MODIFIED="1548856268285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_for_Everybody_University_of_Michigan$regex_sum.coverage" NAME="regex_sum Coverage Results" MODIFIED="1549274344389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_for_Everybody_University_of_Michigan$request_response_cycle.coverage" NAME="request_response_cycle Coverage Results" MODIFIED="1549292871589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_for_Everybody_University_of_Michigan$Assignment_6_5.coverage" NAME="Assignment_6.5 Coverage Results" MODIFIED="1548856096824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_for_Everybody_University_of_Michigan$Assignment_3_1.coverage" NAME="Assignment 3.1 Coverage Results" MODIFIED="1546871944332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_for_Everybody_University_of_Michigan$Assignment_9_4.coverage" NAME="Assignment_9.4 Coverage Results" MODIFIED="1548859623062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_for_Everybody_University_of_Michigan$BeautifulSoup__1_.coverage" NAME="BeautifulSoup (1) Coverage Results" MODIFIED="1549292924008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_for_Everybody_University_of_Michigan$regex_sum__1_.coverage" NAME="regex_sum (1) Coverage Results" MODIFIED="1549329300693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Course 3 - Using Python to Access Web Data" />
     <SUITE FILE_PATH="coverage/Python_for_Everybody_University_of_Michigan$BeautifulSoup.coverage" NAME="BeautifulSoup Coverage Results" MODIFIED="1549292980755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bs4" />
     <SUITE FILE_PATH="coverage/Python_for_Everybody_University_of_Michigan$BeautifulSoup2.coverage" NAME="BeautifulSoup2 Coverage Results" MODIFIED="1549296521638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bs4" />
-    <SUITE FILE_PATH="coverage/Python_for_Everybody_University_of_Michigan$Assignment_4_6.coverage" NAME="Assignment_4.6 Coverage Results" MODIFIED="1548785964059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Python-for-Everybody-University-of-Michigan" />
@@ -27,51 +29,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assignment_9.4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="6" column="16" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assignment_10.2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/regex_sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitattributes">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/request_response_cycle.py">
+        <entry file="file://$PROJECT_DIR$/Course 3 - Using Python to Access Web Data/regex_sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            <state relative-caret-position="203">
+              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bs4/BeautifulSoup.py">
+        <entry file="file://$PROJECT_DIR$/Course 3 - Using Python to Access Web Data/bs4/BeautifulSoup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+            <state relative-caret-position="319">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#202#215#0" expanded="true" />
               </folding>
@@ -80,40 +55,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bs4/BeautifulSoup2.py">
+        <entry file="file://$PROJECT_DIR$/Course 3 - Using Python to Access Web Data/bs4/BeautifulSoup2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="360">
+              <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
               <folding>
                 <element signature="e#202#251#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/regex_sample.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17197">
-              <caret line="593" column="7" selection-start-line="593" selection-start-column="7" selection-end-line="593" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/regex_actual.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17197">
-              <caret line="593" column="7" selection-start-line="593" selection-start-column="7" selection-end-line="593" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mbox-short.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55361">
-              <caret line="1909" selection-start-line="1909" selection-end-line="1909" />
             </state>
           </provider>
         </entry>
@@ -156,10 +104,11 @@
         <option value="$PROJECT_DIR$/BeautifulSoup.py" />
         <option value="$PROJECT_DIR$/bs4/BeautifulSoup.py" />
         <option value="$PROJECT_DIR$/bs4/BeautifulSoup2.py" />
+        <option value="$PROJECT_DIR$/Course 3 - Using Python to Access Web Data/bs4/BeautifulSoup2.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1087" />
@@ -180,6 +129,12 @@
             <path>
               <item name="Python-for-Everybody-University-of-Michigan" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-for-Everybody-University-of-Michigan" type="462c0819:PsiDirectoryNode" />
+              <item name="Course 3 - Using Python to Access Web Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-for-Everybody-University-of-Michigan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-for-Everybody-University-of-Michigan" type="462c0819:PsiDirectoryNode" />
+              <item name="Course 3 - Using Python to Access Web Data" type="462c0819:PsiDirectoryNode" />
               <item name="bs4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -212,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BeautifulSoup2">
+  <component name="RunManager" selected="Python.BeautifulSoup2 (1)">
     <configuration name="BeautifulSoup (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-for-Everybody-University-of-Michigan" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -257,6 +212,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="BeautifulSoup2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-for-Everybody-University-of-Michigan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course 3 - Using Python to Access Web Data/bs4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Course 3 - Using Python to Access Web Data/bs4/BeautifulSoup2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="BeautifulSoup2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-for-Everybody-University-of-Michigan" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -279,7 +256,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regex_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="regex_sum (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-for-Everybody-University-of-Michigan" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,34 +264,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course 3 - Using Python to Access Web Data" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regex_sum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="request_response_cycle" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-for-Everybody-University-of-Michigan" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/request_response_cycle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Course 3 - Using Python to Access Web Data/regex_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -325,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BeautifulSoup2 (1)" />
+        <item itemvalue="Python.regex_sum (1)" />
         <item itemvalue="Python.BeautifulSoup2" />
         <item itemvalue="Python.BeautifulSoup" />
         <item itemvalue="Python.BeautifulSoup (1)" />
-        <item itemvalue="Python.request_response_cycle" />
-        <item itemvalue="Python.regex_sum" />
       </list>
     </recent_temporary>
   </component>
@@ -350,12 +305,12 @@
       <workItem from="1548855500764" duration="2454000" />
       <workItem from="1548947478403" duration="1357000" />
       <workItem from="1549274284104" duration="134000" />
-      <workItem from="1549286237995" duration="4906000" />
+      <workItem from="1549286237995" duration="5786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18698000" />
+    <option name="totallyTimeSpent" value="19578000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -518,13 +473,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/request_response_cycle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/regex_sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
@@ -532,13 +480,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bs4/BeautifulSoup2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="32" column="20" selection-end-line="35" />
+          <folding>
+            <element signature="e#202#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request_response_cycle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/bs4/BeautifulSoup2.py">
+    <entry file="file://$PROJECT_DIR$/Course 3 - Using Python to Access Web Data/regex_sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="203">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course 3 - Using Python to Access Web Data/bs4/BeautifulSoup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#202#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course 3 - Using Python to Access Web Data/bs4/BeautifulSoup2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
           <folding>
             <element signature="e#202#251#0" expanded="true" />
           </folding>
