@@ -25,9 +25,11 @@ data = uh.read().decode()
 print('Retrieved', len(data), 'characters')
 
 js = json.loads(data)
-print("Retrieved: ", json.dumps(js, indent=2))
+print("Retrieved: ", json.dumps(js, indent=1))
 
-
-print(js['results'][0]['place_id'])
+print("Place id: ", js['results'][0]['place_id'])
+print("Lat: ", js['results'][0]['geometry']['location']['lat'])
+print("Lng: ", js['results'][0]['geometry']['location']['lng'])
+print("Address: ", js['results'][0]['formatted_address'])
 
 
