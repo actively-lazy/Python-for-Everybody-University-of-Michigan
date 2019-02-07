@@ -30,6 +30,9 @@ print("Retrieved: ", json.dumps(js, indent=1))
 print("Place id: ", js['results'][0]['place_id'])
 print("Lat: ", js['results'][0]['geometry']['location']['lat'])
 print("Lng: ", js['results'][0]['geometry']['location']['lng'])
+print("Locality: ", js['results'][0]['address_components'][0]['long_name'])
+print("City/Town: ", js['results'][0]['address_components'][1]['long_name'])
+print("State: ", js['results'][0]['address_components'][2]['long_name'])
+print("Country: ", js['results'][0]['address_components'][3]['long_name'])
+print("Type: ", js['results'][0]['types'])
 print("Address: ", js['results'][0]['formatted_address'])
-
-
