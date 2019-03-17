@@ -1,7 +1,7 @@
 import json
 import sqlite3
 
-conn = sqlite3.connect('Databases/rosterdb.sqlite')
+conn = sqlite3.connect('Databases/coursedb.sqlite')
 cur = conn.cursor()
 
 # Do some setup
@@ -45,7 +45,7 @@ for entry in json_data:
     title = entry[1]
     role = entry[2]
 
-    print(name, title, role)
+    print(str(name), str(title), str(role))
 
     cur.execute('''INSERT OR IGNORE INTO User (name)
         VALUES ( ? )''', (name, ))
